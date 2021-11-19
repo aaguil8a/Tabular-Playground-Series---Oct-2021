@@ -85,7 +85,8 @@ these grades are related with the course subject, Math: 31 G1 - first period gra
 
 Q1: What is the overall student performance?
 
-![image](https://user-images.githubusercontent.com/55922514/142605066-acaa83f8-6117-4135-b615-ce59675f7131.png)
+![download](https://user-images.githubusercontent.com/55922514/142605795-3c38cf6a-b0fd-4e98-9dea-45c21e722e89.png)
+
 
 
 
@@ -98,8 +99,8 @@ Q2: What are some factors that affect students’ final grades?
 ![download](https://user-images.githubusercontent.com/55922514/142604099-abe93126-a5f8-40dc-9568-830270eae6c7.png)
 
 Q3: How much does absence influence students’ final grade?
+![142604282-cb14776f-83e3-49db-b4d3-8f5271188c6d](https://user-images.githubusercontent.com/55922514/142605833-7d8dcd6d-93fe-483f-8bce-a9af92eccd07.png)
 
-![image](https://user-images.githubusercontent.com/55922514/142604282-cb14776f-83e3-49db-b4d3-8f5271188c6d.png)
 
 
 We can see that given more absences, then students do worse in final grade.
@@ -121,15 +122,16 @@ We see that if students do well in prior grading periods that will influence how
 There are not many variables that show an influence on students’ final grades, which is interesting in itself since that may indicate the right kind of data was not gathered.
 
 # Feature Importance
+![142604487-d3cde64e-b739-410e-a253-85daefa1c0af](https://user-images.githubusercontent.com/55922514/142605855-5f89d0ee-3c91-4ad9-9bc9-9f529c24e5b4.png)
 
-![image](https://user-images.githubusercontent.com/55922514/142604487-d3cde64e-b739-410e-a253-85daefa1c0af.png)
+
 
 
 
 
 # Models Eva
+![142604546-595b4e21-b128-464b-b019-c84c3cce2cdb](https://user-images.githubusercontent.com/55922514/142605875-5abf1436-ce3e-4018-be84-0b1c18a38102.png)
 
-![image](https://user-images.githubusercontent.com/55922514/142604546-595b4e21-b128-464b-b019-c84c3cce2cdb.png)
 
 RF did best since it had the lowest prediction error.
 
