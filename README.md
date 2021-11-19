@@ -85,7 +85,9 @@ these grades are related with the course subject, Math: 31 G1 - first period gra
 
 Q1: What is the overall student performance?
 
-![image](https://user-images.githubusercontent.com/55922514/142603999-d428eef2-7fa2-4b60-8dac-a55edb615775.png)
+![image](https://user-images.githubusercontent.com/55922514/142605066-acaa83f8-6117-4135-b615-ce59675f7131.png)
+
+
 
 For the most part, students did not do that well since only 209 passed while 186 failed.
 
@@ -114,7 +116,9 @@ Q4: How much does first grade and mid grades affect students’ final grade?
 
 We see that if students do well in prior grading periods that will influence how well he/she does in final grades.
 
-General observations: there are not many variables that show an influence on students’ final grades, which is interesting in itself since that may indicate the right kind of data was not gathered.
+## General observations
+
+There are not many variables that show an influence on students’ final grades, which is interesting in itself since that may indicate the right kind of data was not gathered.
 
 # Feature Importance
 
@@ -127,7 +131,7 @@ General observations: there are not many variables that show an influence on stu
 
 ![image](https://user-images.githubusercontent.com/55922514/142604546-595b4e21-b128-464b-b019-c84c3cce2cdb.png)
 
-RF did best since it had the loweest prediction error.
+RF did best since it had the lowest prediction error.
 
 
 
