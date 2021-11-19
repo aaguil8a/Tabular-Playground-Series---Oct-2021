@@ -1,3 +1,5 @@
+# Student Math Performance
+
 For this project, I took dataset from Kaggle about final scores of students at the end of a math programs with several features that might or might not impact the future outcome of these students. To that end, the following was asked when investigating this dataset: what factors influence students’ final grades in math course subjects? 
 
 
