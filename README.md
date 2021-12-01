@@ -83,7 +83,7 @@ these grades are related with the course subject, Math: 31 G1 - first period gra
 
 # Observation
 
-Q1: What is the overall student performance?
+## Q1: What is the overall student performance?
 
 ![image](https://user-images.githubusercontent.com/55922514/144203442-74e30344-38eb-4a8c-8d31-e374b7042e0d.png)
 
@@ -97,7 +97,7 @@ For the most part, students did not do that well since only 209 passed while 186
 
 
 
-Q2: How much does absence influence students’ final grade?
+## Q2: How much does absence influence students’ final grade?
 
 ![image](https://user-images.githubusercontent.com/55922514/144205086-5e0cf999-7120-42b0-917e-d94bee174f38.png)
 
@@ -110,7 +110,7 @@ We can see that given more absences, then students do worse in final grade.
 
 
 
-Q3: How much does first grade and mid grades affect students’ final grade?
+## Q3: How much does first grade and mid grades affect students’ final grade?
 
 ![download](https://user-images.githubusercontent.com/55922514/142604208-22ff84cf-04ef-49fd-bb10-7d2f4956c0ef.png)
 
