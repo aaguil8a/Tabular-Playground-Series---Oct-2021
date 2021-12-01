@@ -94,13 +94,10 @@ Q1: What is the overall student performance?
 For the most part, students did not do that well since only 209 passed while 186 failed.
 
 
-Q2: What are some factors that affect students’ final grades?
 
 
-![download](https://user-images.githubusercontent.com/55922514/142604099-abe93126-a5f8-40dc-9568-830270eae6c7.png)
 
-
-Q3: How much does absence influence students’ final grade?
+Q2: How much does absence influence students’ final grade?
 
 ![image](https://user-images.githubusercontent.com/55922514/144205086-5e0cf999-7120-42b0-917e-d94bee174f38.png)
 
@@ -113,7 +110,7 @@ We can see that given more absences, then students do worse in final grade.
 
 
 
-Q4: How much does first grade and mid grades affect students’ final grade?
+Q3: How much does first grade and mid grades affect students’ final grade?
 
 ![download](https://user-images.githubusercontent.com/55922514/142604208-22ff84cf-04ef-49fd-bb10-7d2f4956c0ef.png)
 
