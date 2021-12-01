@@ -112,11 +112,11 @@ We can see that given more absences, then students do worse in final grade.
 
 ## Q3: How much does first grade and mid grades affect students’ final grade?
 
-![image](https://user-images.githubusercontent.com/55922514/144214113-f1e54378-513c-43b7-9ff6-4f4afbd20c92.png)
+![image](https://user-images.githubusercontent.com/55922514/144214239-88c2888d-e5f9-4367-8487-a810332a2bdf.png)
 
 
+![image](https://user-images.githubusercontent.com/55922514/144214268-470013bb-6b89-4488-9be3-3d1750636139.png)
 
-![image](https://user-images.githubusercontent.com/55922514/144214143-965f1950-e82e-4d34-ae5e-6bde95bd4b83.png)
 
 
 
