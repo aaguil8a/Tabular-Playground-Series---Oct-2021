@@ -85,7 +85,8 @@ these grades are related with the course subject, Math: 31 G1 - first period gra
 
 Q1: What is the overall student performance?
 
-![download](https://user-images.githubusercontent.com/55922514/142605795-3c38cf6a-b0fd-4e98-9dea-45c21e722e89.png)
+![image](https://user-images.githubusercontent.com/55922514/144203442-74e30344-38eb-4a8c-8d31-e374b7042e0d.png)
+
 
 
 
