@@ -132,11 +132,17 @@ There are not many variables that show an influence on students’ final grades,
 
 
 
+
+
+
 # Models Eva
-![142604546-595b4e21-b128-464b-b019-c84c3cce2cdb](https://user-images.githubusercontent.com/55922514/142605875-5abf1436-ce3e-4018-be84-0b1c18a38102.png)
 
+Models|R^2|RMSE
+---|---|---
+Baseline Model|0.06%|4.80
+Linear Regression|78.11%|2.25
+Decision Tree|80.49%|2.12
+Bagged Tree|85.59%|1.82
+Random Forest|85.86%|1.80
 
-RF did best since it had the lowest prediction error.
-
-
-
+Random Forest did best since it had the lowest prediction error.
