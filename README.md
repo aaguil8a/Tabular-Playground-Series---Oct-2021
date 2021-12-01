@@ -99,8 +99,13 @@ Q2: What are some factors that affect students’ final grades?
 
 ![download](https://user-images.githubusercontent.com/55922514/142604099-abe93126-a5f8-40dc-9568-830270eae6c7.png)
 
+
 Q3: How much does absence influence students’ final grade?
-![142604282-cb14776f-83e3-49db-b4d3-8f5271188c6d](https://user-images.githubusercontent.com/55922514/142605833-7d8dcd6d-93fe-483f-8bce-a9af92eccd07.png)
+
+![image](https://user-images.githubusercontent.com/55922514/144205086-5e0cf999-7120-42b0-917e-d94bee174f38.png)
+
+
+
 
 
 
