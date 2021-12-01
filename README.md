@@ -125,8 +125,13 @@ We see that if students do well in prior grading periods that will influence how
 There are not many variables that show an influence on students’ final grades, which is interesting in itself since that may indicate the right kind of data was not gathered.
 
 # Feature Importance
-![142604487-d3cde64e-b739-410e-a253-85daefa1c0af](https://user-images.githubusercontent.com/55922514/142605855-5f89d0ee-3c91-4ad9-9bc9-9f529c24e5b4.png)
 
+Feature|Importance|
+|---|---
+G2| 0.767002
+absences| 0.122073
+reason_home| 0.013175
+age| 0.013127
 
 
 
